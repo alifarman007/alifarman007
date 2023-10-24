@@ -1,4 +1,4 @@
-<h1>Hi, I'm Alif! <br/><a href="https://github.com/joshmadakor1">Embedded Engineer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Machine learning & AI Develolper</a>, <a href="https://www.youtube.com/c/joshmadakor">EEE</a></h1>
+<h1>Hi, I'm Alif! <br/><a href="https://github.com/joshmadakor1">Embedded Engineer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Machine learning & AI Developer</a>, <a href="https://www.youtube.com/c/joshmadakor">Electronics Product Developer</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
