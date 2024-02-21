@@ -10,7 +10,7 @@
   - [Blind or Secret Auction Game](https://github.com/alifarman007/Blind-or-Secret-Auction-Game)
   - [Calculator](https://github.com/alifarman007/Calculator)
   - [BlackJack Card Game](https://github.com/alifarman007/BlackJack-Card-Game)
-  - [Guess the Number Game]
+  - [Guess the Number Game](https://github.com/alifarman007/Guess-the-Number-Game)
 - <b>Advanced Python Projects</b>
   - [Image Analysis Middleware] <b><i>(Potentially NSFW)</b></i>
 - <b>Machine Learning & AI Projects</b>
