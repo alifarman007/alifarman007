@@ -7,6 +7,7 @@
   - [Password Generator Program](https://github.com/alifarman007/Password-Generator-Program)
   - [Hangman Game](https://github.com/alifarman007/Hangman-Game)
   - [The Caesar Cipher Encode Decode Message](https://github.com/alifarman007/The-Caesar-Cipher-Encoding-Decoding-Message)
+  - [Blind or Secret Auction Game]
 - <b>Advanced Python Projects</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Machine Learning & AI Projects</b>
