@@ -14,6 +14,7 @@
 - <b>Advanced Python Projects</b>
   - [Image Analysis Middleware] <b><i>(Potentially NSFW)</b></i>
 - <b>Machine Learning & AI Projects</b>
+  - [ Basic Data Preprocessing ](https://github.com/alifarman007/Basic-Data-Preprocessing)
 
 
 
