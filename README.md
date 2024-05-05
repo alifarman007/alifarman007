@@ -16,6 +16,7 @@
 - <b>Machine Learning & AI Projects</b>
   - [ Basic Data Preprocessing ](https://github.com/alifarman007/Basic-Data-Preprocessing)
   - [ Salary Prediction model with Linear Regression ](https://github.com/alifarman007/Salary_Prediction_with_linear_Regression)
+  - [ AI Profit Advisor: AI Guide to Profitable Investments ](https://github.com/alifarman007/AI-Profit-Advisor-Guide-to-Profitable-Investments)
 
 
 
