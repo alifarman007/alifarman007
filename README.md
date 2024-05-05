@@ -10,9 +10,8 @@
   - [Blind or Secret Auction Game](https://github.com/alifarman007/Blind-or-Secret-Auction-Game)
   - [Calculator](https://github.com/alifarman007/Calculator)
   - [BlackJack Card Game](https://github.com/alifarman007/BlackJack-Card-Game)
-  - [Guess the Number Game](https://github.com/alifarman007/Guess-the-Number-Game)
 - <b>Advanced Python Projects</b>
-  - [Image Analysis Middleware] <b><i>(Potentially NSFW)</b></i>
+  - [Guess the Number Game](https://github.com/alifarman007/Guess-the-Number-Game)
 - <b>Machine Learning & AI Projects</b>
   - [ Basic Data Preprocessing ](https://github.com/alifarman007/Basic-Data-Preprocessing)
   - [ Salary Prediction model with Linear Regression ](https://github.com/alifarman007/Salary_Prediction_with_linear_Regression)
