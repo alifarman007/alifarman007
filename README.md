@@ -24,6 +24,7 @@
 <h2>📺 Publications</h2>
 
 - [NLP-based transition from Bangla local language to standard language]
+- Abstract: Bengali is the State Language of Bangladesh and about 300 million people use this language around the world. The maximum number of Bengali speakers are from Bangladesh. Though there is a common or Colloquial Language to communicate with each other in this country. But there are many Regional Languages in this country. Among the regional speakers one may not or do not understand other regional languages, that’s why it’s a crucial problem to communicate one regional speaker with another regional speaker. In this research, we are trying to make a platform for detecting one’s language region from his given sentences/words and according to his/her region, we are translating his/her sentences/words to Colloquial Language and this platform will train up him/his for learning the Standard Bengali Language as well as.
 
 <h2> 🤳 Connect with me:</h2>
 
