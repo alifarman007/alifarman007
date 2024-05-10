@@ -31,7 +31,7 @@
   - Memory enable Height Adjustable Table
   - Air Purifier
   - Theatre Chair with pair sound system (Sound Integrated chair with App Control)
-- <b>CUniversiy Projects</b>
+- <b>Universiy Projects</b>
   - ROBOTIC ARM WITH IOT CONTROL
   - LINE FOLLOWER ROBOT
   - HEART RATE SENSOR WITH EMERGENCY SIGNAL
