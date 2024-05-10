@@ -19,8 +19,19 @@
   - [ Salary Prediction model with Random Forest ](https://github.com/alifarman007/Salary-Prediction-model-with-Random-Forest)
   - [ AI Profit Advisor: AI Guide to Profitable Investments ](https://github.com/alifarman007/AI-Profit-Advisor-Guide-to-Profitable-Investments)
 
+<h2>👨‍💻 Embedded Projects:</h2>
 
-
+- <b>Projects</b>
+  - Solar Light
+  - Okos Wifi Porter
+  - AI Tree Planter
+  - MOD POD
+  - IoT Furniture Integrated Wireless Charger
+  - Bluetooth Ottoman ( BLuetooth speaker integrated furniture)
+  - Memory enable Height Adjustable Table
+  - Air Purifier
+  - Theatre Chair with pair sound system (Sound Integrated chair with App Controll)
+  
 <h2>📺 Publications</h2>
 
 - NLP-based transition from Bangla local language to standard language
