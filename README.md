@@ -18,6 +18,7 @@
   - [ Salary Prediction model with Polynomial Regression ](https://github.com/alifarman007/Salary-Predict-with-Polynomial-Regression)
   - [ Salary Prediction model with Random Forest ](https://github.com/alifarman007/Salary-Prediction-model-with-Random-Forest)
   - [ AI Profit Advisor: AI Guide to Profitable Investments ](https://github.com/alifarman007/AI-Profit-Advisor-Guide-to-Profitable-Investments)
+  - [ Product Purchase Prediction Based on Customer Age and Salary ](https://github.com/alifarman007/Product-Purchase-Prediction-Based-on-Customer)
 
 <h2>👨‍💻 Embedded Projects:</h2>
 
