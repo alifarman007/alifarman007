@@ -23,7 +23,7 @@
 <h2>👨‍💻 Embedded Projects:</h2>
 
 - <b>Consumer level Projects which people can buy</b>
-  - Solar Light
+  - [ Solar Powered Lamp ](https://github.com/alifarman007/Solar-Powered-Lamp)
   - Okos Wifi Porter
   - AI Tree Planter
   - MOD POD
