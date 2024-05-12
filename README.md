@@ -28,7 +28,7 @@
   - AI Tree Planter
   - MOD POD
   - [ Smart Furniture Integrated Wireless Charger ](https://github.com/alifarman007/Smart-Furniture-Wireless-Charging-Integrated)
-  - Bluetooth Ottoman ( Bluetooth speaker integrated furniture)
+  - [ Bluetooth Ottoman ( Bluetooth speaker integrated furniture) ](https://github.com/alifarman007/Bluetooth-Ottoman-Bluetooth-speaker-integrated-furniture)
   - Memory enable Height Adjustable Table
   - Air Purifier
   - Theatre Chair with pair sound system (Sound Integrated chair with App Control)
