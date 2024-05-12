@@ -27,7 +27,7 @@
   - Okos Wifi Porter
   - AI Tree Planter
   - MOD POD
-  - IoT Furniture Integrated Wireless Charger
+  - [ Smart Furniture Integrated Wireless Charger ](https://github.com/alifarman007/Smart-Furniture-Wireless-Charging-Integrated)
   - Bluetooth Ottoman ( Bluetooth speaker integrated furniture)
   - Memory enable Height Adjustable Table
   - Air Purifier
