@@ -26,7 +26,7 @@
   - [ Solar Powered Lamp ](https://github.com/alifarman007/Solar-Powered-Lamp)
   - Okos Wifi Porter
   - AI Tree Planter
-  - MOD POD
+  - [ MOD POD Series ](https://github.com/alifarman007/MOD-POD-Series)
   - [ Smart Furniture Integrated Wireless Charger ](https://github.com/alifarman007/Smart-Furniture-Wireless-Charging-Integrated)
   - [ Bluetooth Ottoman ( Bluetooth speaker integrated furniture) ](https://github.com/alifarman007/Bluetooth-Ottoman-Bluetooth-speaker-integrated-furniture)
   - Memory enable Height Adjustable Table
