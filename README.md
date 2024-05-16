@@ -24,7 +24,7 @@
 
 - <b>Consumer level Projects which people can buy</b>
   - [ Solar Powered Lamp ](https://github.com/alifarman007/Solar-Powered-Lamp)
-  - Okos Wifi Porter
+  - [ Wi-Fi Porter NFC & QR ](https://github.com/alifarman007/WIFI-Porter-NFC-and-QR)
   - AI Tree Planter
   - [ MOD POD Series ](https://github.com/alifarman007/MOD-POD-Series)
   - [ Smart Furniture Integrated Wireless Charger ](https://github.com/alifarman007/Smart-Furniture-Wireless-Charging-Integrated)
