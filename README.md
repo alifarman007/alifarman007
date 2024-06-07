@@ -24,10 +24,10 @@
   - [ Product Purchase Prediction Based on Customer Age and Salary ](https://github.com/alifarman007/Product-Purchase-Prediction-Based-on-Customer)
 
 <h2>👨‍💻 AI Software and Hardware Projects:</h2>
-  - AI Tree Planter
-  - AI Factory Monitoring System
-  - AI self-learning Interacting Table
-  - AI Smart Trolley
+  - [ AI Tree Planter ]
+  - [ AI Factory Monitoring System ]
+  - [ AI self-learning Interacting Table ]
+  - [ AI Smart Trolley ]
 
 <h2>👨‍💻 Embedded Projects:</h2>
 
