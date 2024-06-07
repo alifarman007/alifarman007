@@ -12,6 +12,9 @@
   - [BlackJack Card Game](https://github.com/alifarman007/BlackJack-Card-Game)
 - <b>Advanced Python Projects</b>
   - [Guess the Number Game](https://github.com/alifarman007/Guess-the-Number-Game)
+
+<h2>👨‍💻 AI Software Projects:</h2>
+
 - <b>Machine Learning & AI Projects</b>
   - [ Basic Data Preprocessing ](https://github.com/alifarman007/Basic-Data-Preprocessing)
   - [ Salary Prediction model with Linear Regression ](https://github.com/alifarman007/Salary_Prediction_with_linear_Regression)
@@ -20,13 +23,18 @@
   - [ AI Profit Advisor: AI Guide to Profitable Investments ](https://github.com/alifarman007/AI-Profit-Advisor-Guide-to-Profitable-Investments)
   - [ Product Purchase Prediction Based on Customer Age and Salary ](https://github.com/alifarman007/Product-Purchase-Prediction-Based-on-Customer)
 
+<h2>👨‍💻 AI Software and Hardware Projects:</h2>
+  - AI Tree Planter
+  - AI Factory Monitoring System
+  - AI self-learning Interacting Table
+  - AI Smart Trolley
+
 <h2>👨‍💻 Embedded Projects:</h2>
 
 - <b>Consumer level Projects which people can buy</b>
   - [ Solar Powered Lamp ](https://github.com/alifarman007/Solar-Powered-Lamp)
   - [ Wi-Fi Porter NFC & QR ](https://github.com/alifarman007/WIFI-Porter-NFC-and-QR)
   - [ Wi-Fi Porter NFC ]
-  - AI Tree Planter
   - [ MOD POD Series ](https://github.com/alifarman007/MOD-POD-Series)
   - [ Smart Furniture Integrated Wireless Charger ](https://github.com/alifarman007/Smart-Furniture-Wireless-Charging-Integrated)
   - [ Bluetooth Ottoman ( Bluetooth speaker integrated furniture) ](https://github.com/alifarman007/Bluetooth-Ottoman-Bluetooth-speaker-integrated-furniture)
