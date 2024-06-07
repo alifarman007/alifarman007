@@ -31,7 +31,7 @@
   - [ Smart Furniture Integrated Wireless Charger ](https://github.com/alifarman007/Smart-Furniture-Wireless-Charging-Integrated)
   - [ Bluetooth Ottoman ( Bluetooth speaker integrated furniture) ](https://github.com/alifarman007/Bluetooth-Ottoman-Bluetooth-speaker-integrated-furniture)
   - [ Memory Recall Height Adjustable Table ](https://github.com/alifarman007/Height-Adjustable-Table)
-  - Air Purifier
+  - [ Smart Air Purifier Table - IoT Home Project ](https://github.com/alifarman007/Smart-Air-Purifier-Table)
   - Theatre Chair with pair sound system (Sound Integrated chair with App Control)
 - <b>Universiy Projects</b>
   - ROBOTIC ARM WITH IOT CONTROL
