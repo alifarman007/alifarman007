@@ -31,7 +31,7 @@
   - [ AI self-learning Interacting Table ]
   - [ AI Smart Trolley ]
 
-<h2>👨‍💻 Embedded Projects:</h2>
+<h2>👨‍💻 IoT Projects:</h2>
 
 - <b>Consumer level Projects which people can buy</b>
   - [ Solar Powered Lamp ](https://github.com/alifarman007/Solar-Powered-Lamp)
