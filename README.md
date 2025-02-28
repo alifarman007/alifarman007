@@ -1,18 +1,5 @@
 <h1>Hi, I'm Alif! <br/>AI Engineer</a>, Machine learning & AI Programmer, AI IoT Product Developer</h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
-
-- <b>Python Projects</b>
-  - [Rock Paper Scissor Game in Python](https://github.com/alifarman007/Rock-Paper-Scissor-Game)
-  - [Password Generator Program](https://github.com/alifarman007/Password-Generator-Program)
-  - [Hangman Game](https://github.com/alifarman007/Hangman-Game)
-  - [The Caesar Cipher Encode Decode Message](https://github.com/alifarman007/The-Caesar-Cipher-Encoding-Decoding-Message)
-  - [Blind or Secret Auction Game](https://github.com/alifarman007/Blind-or-Secret-Auction-Game)
-  - [Calculator](https://github.com/alifarman007/Calculator)
-  - [BlackJack Card Game](https://github.com/alifarman007/BlackJack-Card-Game)
-- <b>Advanced Python Projects</b>
-  - [Guess the Number Game](https://github.com/alifarman007/Guess-the-Number-Game)
-
 <h2>👨‍💻 AI Software Projects:</h2>
 
 - <b>Machine Learning & AI Projects</b>
@@ -52,6 +39,20 @@
 
 - NLP-based transition from the Bangla local language to the standard language
 - Abstract: Bengali is the State Language of Bangladesh and about 300 million people use this language around the world. The maximum number of Bengali speakers are from Bangladesh. Though there is a common or Colloquial Language to communicate with each other in this country. But there are many Regional Languages in this country. Among the regional speakers one may not or do not understand other regional languages, that’s why it’s a crucial problem to communicate one regional speaker with another regional speaker. In this research, we are trying to make a platform for detecting one’s language region from his given sentences/words and according to his/her region, we are translating his/her sentences/words to Colloquial Language and this platform will train up him/his for learning the Standard Bengali Language as well as.
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b>Python Projects</b>
+  - [Rock Paper Scissor Game in Python](https://github.com/alifarman007/Rock-Paper-Scissor-Game)
+  - [Password Generator Program](https://github.com/alifarman007/Password-Generator-Program)
+  - [Hangman Game](https://github.com/alifarman007/Hangman-Game)
+  - [The Caesar Cipher Encode Decode Message](https://github.com/alifarman007/The-Caesar-Cipher-Encoding-Decoding-Message)
+  - [Blind or Secret Auction Game](https://github.com/alifarman007/Blind-or-Secret-Auction-Game)
+  - [Calculator](https://github.com/alifarman007/Calculator)
+  - [BlackJack Card Game](https://github.com/alifarman007/BlackJack-Card-Game)
+- <b>Advanced Python Projects</b>
+  - [Guess the Number Game](https://github.com/alifarman007/Guess-the-Number-Game)
+
 
 <h2> 🤳 Connect with me:</h2>
 
