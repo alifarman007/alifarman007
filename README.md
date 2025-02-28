@@ -2,7 +2,9 @@
 
 <h2>👨‍💻 AI Agent Projects:</h2>
 - <b>AI Agents</b>
-  - [AI Agent to Detect, Track, and Count Vehicles]()
+  - [AI Agent to Detect, Track, and Count Vehicles]
+- <b>AI Factory or Warehouse Raw Materails Tracking</b>
+  - [AI Agent of Factory Raw Material Tracking]
 
 <h2>👨‍💻 AI Software Projects:</h2>
 
