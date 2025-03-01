@@ -8,11 +8,7 @@
   - [ Farmer AI Agent ]
   - [ AI Factory Efficiency ]
 
-<h2>👨‍💻 AI Agent Projects:</h2>
-- <b>AI Agents</b>
-  - [ AI Factory Raw Material Tracking ]
-  - [ AI Vehicles Detect, Track and Count Traffic Agent ]
-  - [ Farmer AI agent for cattle farms ]
+
 
 <h2>👨‍💻 AI Software Projects:</h2>
 
