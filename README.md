@@ -3,10 +3,10 @@
 <h2>👨‍💻 AI Agent Projects:</h2>
 
 - <b>AI Agents</b>
-  - [ AI Tree Planter ]
-  - [ AI Factory Monitoring System ]
-  - [ AI self-learning Interacting Table ]
-  - [ AI Smart Trolley ]
+  - [ AI Raw Materials Track]
+  - [ AI Vehicle Track & Count]
+  - [ Farmer AI Agent ]
+  - [ AI Factory Efficiency ]
 
 <h2>👨‍💻 AI Agent Projects:</h2>
 - <b>AI Agents</b>
