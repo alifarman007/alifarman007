@@ -1,6 +1,14 @@
 <h1>Hi, I'm Alif! <br/>AI Engineer</a>, Machine learning & AI Programmer, AI IoT Product Developer</h1>
 
 <h2>👨‍💻 AI Agent Projects:</h2>
+
+- <b>AI Agents</b>
+  - [ AI Tree Planter ]
+  - [ AI Factory Monitoring System ]
+  - [ AI self-learning Interacting Table ]
+  - [ AI Smart Trolley ]
+
+<h2>👨‍💻 AI Agent Projects:</h2>
 - <b>AI Agents</b>
   - [ AI Factory Raw Material Tracking ]
   - [ AI Vehicles Detect, Track and Count Traffic Agent ]
