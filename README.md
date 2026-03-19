@@ -21,7 +21,7 @@
 
 I build AI systems that ship to production — from RAG chatbots handling banking queries to real-time vision pipelines counting inventory across factory floors. Deployed across **on-premises servers, cloud infrastructure, NVIDIA GPUs**, and **edge devices**.
 
-**15+ AI solutions** delivered for clients including **BRAC Bank, Kazi Food, Gozayaan**, and others across fintech, retail, hospitality, and healthcare.
+**15+ AI solutions** delivered for clients including **Kazi Farms, Kazi Food, BRAC Bank, Agora, UK-based Company, Gozayaan**, and others across fintech, retail, hospitality, and healthcare.
 
 Previously spent **4.5 years** at Dekko ISHO Group progressing from Jr. Engineer → Embedded Engineer → ML Engineer.
 
