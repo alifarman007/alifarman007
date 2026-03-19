@@ -1,90 +1,60 @@
-<h1>Hi, I'm Alif! <br/>AI Engineer</a>, Machine learning & AI Programmer, AI IoT Product Developer</h1>
+# Alif Arman
 
-<h2>👨‍💻 AI Agent Projects:</h2>
+**AI Engineer** · Building production AI systems across computer vision, NLP, and edge deployment
 
-- <b>AI Agents</b>
-  - [ AI Raw Materials Track]
-  - [ AI Vehicle Track & Count]
-  - [ Farmer AI Agent ]
-  - [ AI Factory Efficiency ]
+I design and deploy AI solutions that solve real business problems — from RAG-powered chatbots serving banking customers to real-time vision systems counting inventory at scale. Currently leading AI product development at [Sysnova](https://www.sysnova.com.bd), where I've shipped 15+ AI solutions for clients including BRAC Bank, Kazi Food, and Gozayaan.
 
+---
 
+### What I Work With
 
-<h2>👨‍💻 AI Software Projects:</h2>
+**Computer Vision** · YOLOv8 · OpenCV · TensorRT · ONNX · Face Recognition · Object Tracking  
+**NLP & LLMs** · LangChain · RAG · Transformers · Sentence-BERT · Prompt Engineering  
+**MLOps & Deployment** · FastAPI · Docker · NVIDIA Jetson · Edge AI · ONNX Runtime  
+**Data & ML** · PyTorch · Scikit-learn · Pandas · Time-Series Forecasting · Prophet  
+**Languages** · Python · C++ · JavaScript · SQL · Bash
 
-- <b>Machine Learning & AI Projects</b>
-  - [ Basic Data Preprocessing ](https://github.com/alifarman007/Basic-Data-Preprocessing)
-  - [ Salary Prediction model with Linear Regression ](https://github.com/alifarman007/Salary_Prediction_with_linear_Regression)
-  - [ Salary Prediction model with Polynomial Regression ](https://github.com/alifarman007/Salary-Predict-with-Polynomial-Regression)
-  - [ Salary Prediction model with Random Forest ](https://github.com/alifarman007/Salary-Prediction-model-with-Random-Forest)
-  - [ AI Profit Advisor: AI Guide to Profitable Investments ](https://github.com/alifarman007/AI-Profit-Advisor-Guide-to-Profitable-Investments)
-  - [ Product Purchase Prediction Based on Customer Age and Salary ](https://github.com/alifarman007/Product-Purchase-Prediction-Based-on-Customer)
+---
 
-<h2>👨‍💻 AI Software and Hardware Projects:</h2>
+### Featured Projects
 
-- <b>AI Integrated Hardware Projects</b>
-  - [ AI Tree Planter ]
-  - [ AI Factory Monitoring System ]
-  - [ AI self-learning Interacting Table ]
-  - [ AI Smart Trolley ]
+> Portfolio projects demonstrating the same techniques I use in production — built on public datasets.
 
-<h2>👨‍💻 IoT Projects:</h2>
+| Project | What It Does | Stack |
+|---------|-------------|-------|
+| [**rag-chatbot-bangla**](https://github.com/alifarman007/rag-chatbot-bangla) | Retrieval-augmented generation chatbot with Bangla language support | LangChain · FAISS · FastAPI · Sentence-BERT |
+| [**vision-counter**](https://github.com/alifarman007/vision-counter) | Real-time object detection and counting pipeline with tracking | YOLOv8 · ByteTrack · OpenCV · FastAPI |
+| [**bangla-ocr-pipeline**](https://github.com/alifarman007/bangla-ocr-pipeline) | End-to-end Bangla text extraction from documents and images | PaddleOCR · Tesseract · OpenCV · FastAPI |
+| [**edge-ai-deploy**](https://github.com/alifarman007/edge-ai-deploy) | Model optimization and deployment on edge devices | TensorRT · ONNX · NVIDIA Jetson · Docker |
+| [**ai-translator-api**](https://github.com/alifarman007/ai-translator-api) | Bangla ↔ English neural translation service | Transformers · MarianMT · FastAPI · Docker |
+| [**demand-forecasting**](https://github.com/alifarman007/demand-forecasting) | Time-series demand prediction for retail inventory | Prophet · LSTM · Pandas · Plotly |
 
-- <b>Consumer level Projects which people can buy</b>
-  - [ Solar Powered Lamp ](https://github.com/alifarman007/Solar-Powered-Lamp)
-  - [ Wi-Fi Porter NFC & QR ](https://github.com/alifarman007/WIFI-Porter-NFC-and-QR)
-  - [ Wi-Fi Porter NFC ]
-  - [ MOD POD Series ](https://github.com/alifarman007/MOD-POD-Series)
-  - [ Smart Furniture Integrated Wireless Charger ](https://github.com/alifarman007/Smart-Furniture-Wireless-Charging-Integrated)
-  - [ Bluetooth Ottoman ( Bluetooth speaker integrated furniture) ](https://github.com/alifarman007/Bluetooth-Ottoman-Bluetooth-speaker-integrated-furniture)
-  - [ Memory Recall Height Adjustable Table ](https://github.com/alifarman007/Height-Adjustable-Table)
-  - [ Smart Air Purifier Table - IoT Home Project ](https://github.com/alifarman007/Smart-Air-Purifier-Table)
-  - Theatre Chair with pair sound system (Sound Integrated chair with App Control)
-- <b>Universiy Projects</b>
-  - ROBOTIC ARM WITH IOT CONTROL
-  - LINE FOLLOWER ROBOT
-  - HEART RATE SENSOR WITH EMERGENCY SIGNAL
-  
-<h2>📺 Publications</h2>
+---
 
-- NLP-based transition from the Bangla local language to the standard language
-- Abstract: Bengali is the State Language of Bangladesh and about 300 million people use this language around the world. The maximum number of Bengali speakers are from Bangladesh. Though there is a common or Colloquial Language to communicate with each other in this country. But there are many Regional Languages in this country. Among the regional speakers one may not or do not understand other regional languages, that’s why it’s a crucial problem to communicate one regional speaker with another regional speaker. In this research, we are trying to make a platform for detecting one’s language region from his given sentences/words and according to his/her region, we are translating his/her sentences/words to Colloquial Language and this platform will train up him/his for learning the Standard Bengali Language as well as.
+### Publications
 
-<h2>👨‍💻 Software Development Projects:</h2>
+- **NLP-Based Transition from Bangla Local Language to Standard Language**  
+  IEEE International Conference, 2025 · [Paper →](#)
 
-- <b>Python Projects</b>
-  - [Rock Paper Scissor Game in Python](https://github.com/alifarman007/Rock-Paper-Scissor-Game)
-  - [Password Generator Program](https://github.com/alifarman007/Password-Generator-Program)
-  - [Hangman Game](https://github.com/alifarman007/Hangman-Game)
-  - [The Caesar Cipher Encode Decode Message](https://github.com/alifarman007/The-Caesar-Cipher-Encoding-Decoding-Message)
-  - [Blind or Secret Auction Game](https://github.com/alifarman007/Blind-or-Secret-Auction-Game)
-  - [Calculator](https://github.com/alifarman007/Calculator)
-  - [BlackJack Card Game](https://github.com/alifarman007/BlackJack-Card-Game)
-- <b>Advanced Python Projects</b>
-  - [Guess the Number Game](https://github.com/alifarman007/Guess-the-Number-Game)
+- **Prediction of Fetal Health Classification Using Machine Learning**  
+  Springer — Trends in Electronics and Health Informatics (TEHI), 2023 · [Paper →](#)
 
+---
 
-<h2> 🤳 Connect with me:</h2>
+### Career Snapshot
 
+```
+2025–Present   AI Engineer          Sysnova Information Systems Ltd.
+2022–2025      ML Engineer           Dekko ISHO Group
+2021–2022      Embedded Engineer     Dekko ISHO Group  
+2020–2021      Jr. Engineer          Dekko ISHO Group
+```
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+**B.Sc. in EEE** · Ahsanullah University of Science and Technology (AUST), 2020
 
+---
 
+### Connect
 
-
-[linkedin]: https://www.linkedin.com/in/alifarman07/
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-alifarman07-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alifarman07/)
+[![Email](https://img.shields.io/badge/Email-alifarman007@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:alifarman007@gmail.com)
