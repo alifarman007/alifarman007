@@ -15,24 +15,15 @@
 
 <br/>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=alifarman007&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00E5FF&icon_color=00E5FF&text_color=8B949E&ring_color=00E5FF" width="420" alt="GitHub Stats"/>
-
 ### `> whoami`
 
 **AI Engineer** at **Sysnova Information Systems Ltd.**
 
-I build AI systems that ship to production — from RAG chatbots
-handling banking queries to real-time vision pipelines counting
-inventory across factory floors.
+I build AI systems that ship to production — from RAG chatbots handling banking queries to real-time vision pipelines counting inventory across factory floors. Deployed across **on-premises servers, cloud infrastructure, NVIDIA GPUs**, and **edge devices**.
 
-**15+ AI solutions** deployed for clients including **BRAC Bank,
-Kazi Food, Gozayaan**, and others across fintech, retail, hospitality,
-and healthcare.
+**15+ AI solutions** delivered for clients including **BRAC Bank, Kazi Food, Gozayaan**, and others across fintech, retail, hospitality, and healthcare.
 
-Previously spent **4.5 years** at Dekko ISHO Group progressing from
-Jr. Engineer → Embedded Engineer → ML Engineer.
-
-<br clear="both"/>
+Previously spent **4.5 years** at Dekko ISHO Group progressing from Jr. Engineer → Embedded Engineer → ML Engineer.
 
 ---
 
@@ -202,16 +193,6 @@ Time-series demand prediction for retail
 │     Graduation: 2020                                            │
 └─────────────────────────────────────────────────────────────────┘
 ```
-
----
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=alifarman007&theme=transparent&hide_border=true&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=484F58" width="480" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifarman007&layout=compact&hide_border=true&bg_color=0d1117&title_color=00E5FF&text_color=8B949E&langs_count=6" width="350" alt="Top Languages"/>
-</p>
 
 ---
 
