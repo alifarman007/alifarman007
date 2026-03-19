@@ -1,6 +1,6 @@
 # Alif Arman
 
-**AI Engineer** · Building production AI systems across computer vision, NLP, and edge deployment
+**AI Engineer** · Building production AI systems across computer vision, NLP, LLM and edge deployment
 
 I design and deploy AI solutions that solve real business problems — from RAG-powered chatbots serving banking customers to real-time vision systems counting inventory at scale. Currently leading AI product development at [Sysnova](https://www.sysnova.com.bd), where I've shipped 15+ AI solutions for clients including BRAC Bank, Kazi Food, and Gozayaan.
 
@@ -8,9 +8,9 @@ I design and deploy AI solutions that solve real business problems — from RAG-
 
 ### What I Work With
 
-**Computer Vision** · YOLOv8 · OpenCV · TensorRT · ONNX · Face Recognition · Object Tracking  
+**Computer Vision** · YOLOv8/v10/v11/v26 · OpenCV · TensorRT · ONNX · Face Recognition · Object Tracking  
 **NLP & LLMs** · LangChain · RAG · Transformers · Sentence-BERT · Prompt Engineering  
-**MLOps & Deployment** · FastAPI · Docker · NVIDIA Jetson · Edge AI · ONNX Runtime  
+**MLOps & Deployment** · FastAPI · Docker · NVIDIA Jetson · Edge AI · ONNX Runtime · Nvidia GPU · CPU  
 **Data & ML** · PyTorch · Scikit-learn · Pandas · Time-Series Forecasting · Prophet  
 **Languages** · Python · C++ · JavaScript · SQL · Bash
 
