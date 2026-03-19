@@ -33,7 +33,7 @@ Previously spent **4.5 years** at Dekko ISHO Group progressing from Jr. Engineer
 <summary><b>🔬 Computer Vision</b></summary>
 <br/>
 <p>
-  <img src="https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge&logo=yolo&logoColor=00E5FF" alt="YOLO"/>
+  <img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge&logo=yolo&logoColor=00E5FF" alt="YOLO"/>
   <img src="https://img.shields.io/badge/OpenCV-111111?style=for-the-badge&logo=opencv&logoColor=00E5FF" alt="OpenCV"/>
   <img src="https://img.shields.io/badge/TensorRT-111111?style=for-the-badge&logo=nvidia&logoColor=76B900" alt="TensorRT"/>
   <img src="https://img.shields.io/badge/ONNX-111111?style=for-the-badge&logo=onnx&logoColor=00E5FF" alt="ONNX"/>
